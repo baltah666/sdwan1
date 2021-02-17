@@ -1,6 +1,6 @@
 !INTERNET
 !
-conf t
+configure terminal
 !
 hostname INTERNET
 !
