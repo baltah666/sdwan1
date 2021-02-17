@@ -4,6 +4,7 @@
 !
 conf t
 !
+!
 hostname WAN
 !
 vlan 100
